@@ -8,10 +8,10 @@ Level Changing: true
 
 #settings
 Countdown: 30
-Cages: false
+Cages: true
 Respawn Time: 10
-Lucky Ores: false
-Mystery Chest: false
+Lucky Ores: true
+Mystery Chest: true
 Max Game Time: 5m
 
 Team Chest: true
